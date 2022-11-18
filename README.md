@@ -1,5 +1,16 @@
 ## Terraform 
 
+### What is terraform ?
+
+### Terraform Diagram 
+
+
+### How to set up Terraform on Mac ? 
+
+
+
+
+
 ### Useful Terraform Commands: 
 
 - `terraform init` Prepare your working directory for other commands
