@@ -155,7 +155,7 @@ resource "aws_instance" "app_instance" {
   subnet_id = aws_subnet.eng130_abdellah_subnet_public.id
   vpc_security_group_ids = [aws_security_group.eng130-abdellah-terraform-sg.id]
   associate_public_ip_address = true
-  key_name = "eng130"
+  key_name = "eng130-new"
 
   tags = {
     Name = "eng130-abdellah-terraform-app"
